@@ -1,0 +1,30 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 170px;
+  margin-left: 40px;
+}
+
+.hero h1 {
+  display: block;
+}
+
+.flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.pl-sm {
+  padding-left: 50px;
+}

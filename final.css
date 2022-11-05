@@ -1,7 +1,12 @@
+body,
+input,
+textarea {
+  font-family: "Quicksand", sans-serif;
+}
+
 body {
   background-color: rgba(253, 216, 219, 0.3);
   margin: 0;
-  font-family: "Quicksand", sans-serif;
 }
 
 .social {
@@ -30,17 +35,12 @@ body {
   height: 60px;
   width: 60px;
   border: black solid 1px;
+  margin-top: 10px;
 }
 
 .logo h3 {
   font-family: "Satisfy", cursive;
   padding-left: 15px;
-}
-
-h1 {
-  font: bold;
-  font-family: "Zen Antique Soft", serif;
-  color: #4c4c4c;
 }
 
 .nav-container {
@@ -71,6 +71,13 @@ h1 {
   display: inline-flex;
   margin: 10px;
   list-style: none;
+}
+
+h1 {
+  font: bold;
+  font-family: "Zen Antique Soft", serif;
+  color: #4c4c4c;
+  font-size: 53px;
 }
 
 .hero {
