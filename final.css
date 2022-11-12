@@ -75,9 +75,12 @@ body {
 
 h1 {
   font: bold;
-  font-family: "Zen Antique Soft", serif;
   color: #4c4c4c;
   font-size: 53px;
+}
+
+.font-zen {
+  font-family: "Zen Antique Soft", serif;
 }
 
 .hero {
