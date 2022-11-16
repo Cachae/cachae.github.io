@@ -1,0 +1,66 @@
+.top {
+  display: flex;
+  justify-content: flex-start;
+  margin: 170px auto 0;
+}
+
+.text {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-top: 100px;
+}
+
+.text h2 {
+  font-size: 24px;
+  font-weight: 200;
+}
+
+.button {
+  border-radius: 7px;
+  background-color: #faad3a;
+  color: white;
+  font-size: 27px;
+  padding: 4px 16px;
+  text-decoration: none;
+  box-shadow: 0px 1px 3px rgb(0 0 0 / 15%);
+}
+
+.pricingphoto {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 170px;
+  max-height: 100%;
+  margin-top: 30px;
+  border: 1px black solid;
+  height: 600px;
+  width: 600px;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+
+.flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.pl-sm {
+  padding-left: 50px;
+}

@@ -2,6 +2,11 @@ body,
 input,
 textarea {
   font-family: "Quicksand", sans-serif;
+  font-weight: 300;
+}
+
+h2 {
+  font-weight: inherit;
 }
 
 body {
